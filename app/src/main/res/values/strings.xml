@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PetSociety</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="screen_dev_info">screen dev info</string>
+    <string name="screen_dev_remarks">screen dev remarks</string>
+
+    <!--splash screen strings-->
+    <string name="splash_screen_info">This is an entry screen for the app.\nShow for 2 seconds.\nIf user is already registered go to the main screen of the app, else go to the registration screen.</string>
+    <string name="splash_screen_remarks">Define screen.\nRemove app bar.</string>
+    <string name="dialog_remark_title">Remarks</string>
+    <string name="dialog_info_title">Info</string>
+    <!--==================================================-->
+    <string name="dialog_i_read_msg">I Read</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">חיות מחמד</string>
+    <string name="hello_blank_fragment">פרגמנט ריק</string>
+    <string name="screen_dev_info">מידע על המסך</string>
+    <string name="screen_dev_remarks">הערות למסך</string>
+    <string name="splash_screen_info">מסך הכניסה לאלפליקציה.\nלהראות 2 שניות.\nאם משתמש רשום לעבור למסך הראשי של האפליצקיה אם לא לעבור למסך הרישום.</string>
+    <string name="splash_screen_remarks">להגדיר מסך.\nלבטל טול בר.</string>
+    <string name="dialog_remark_title">הערות</string>
+    <string name="dialog_info_title">מידע</string>
+    <string name="dialog_i_read_msg">קראתי</string>
+</resources>
